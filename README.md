@@ -18,7 +18,7 @@ This app allows you to write and delete simple notes.
 Clone the repository and run `npm install` inside of its directory.
 
 ## Deployed Instance
-This [link](todo) will take you to a deployed instance of the app.
+This [link](https://guarded-ocean-76488.herokuapp.com/) will take you to a deployed instance of the app.
 
 ## Questions
 
